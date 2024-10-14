@@ -101,7 +101,7 @@ input {
 
 .btn-category {
   font-size: 18px;
-  padding: 0.5% 2.8% 0.5% 2.8%;
+  padding: 8px 45px 8px 45px;
   margin-top: 20px;
   cursor: pointer;
   border: 1px solid rgb(190, 190, 190);
@@ -151,7 +151,7 @@ hr {
   height: 370px;
   width: 220px;
   margin-bottom: 40px;
-  margin-right: 2.65%;
+  margin-right: 40px;
   position: relative;
   box-sizing: border-box;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);

@@ -474,81 +474,6 @@ hr {
 
 /*The end of footer*/
 
-@media (max-width: 480px) {
-  .header {
-    height: auto;
-  }
-
-  .header-content-section {
-    flex-direction: column;
-    padding: 10px;
-  }
-
-  .search-container {
-    margin-top: 10px;
-    width: 100%;
-  }
-
-  input {
-    width: 90%;
-  }
-
-  .category-buttons-section {
-    display: flex;
-    flex-wrap: wrap;
-  }
-
-  .btn-category {
-    width: 48%;
-    margin-top: 10px;
-    padding: 8px 30px 8px 30px;
-  }
-
-  .btn-basket {
-    text-align: center;
-    margin: 0 auto;
-    margin-top: 10px;
-    width: 100%;
-  }
-
-  .content-books {
-    justify-content: center;
-  }
-
-  .box-book {
-    margin-right: 0;
-  }
-
-  .cart-item {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .cart-item-details {
-    margin-top: 15px;
-    align-items: center;
-  }
-
-  .cart-quantity-controls {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-
-  .footer {
-    height: auto;
-  }
-
-  .footer-content-section {
-    flex-direction: column;
-    padding-bottom: 20px;
-  }
-
-  .right-content-block {
-    width: 100%;
-    margin-top: 20px;
-  }
-}
-
 @media (max-width: 768px) {
   .header {
     height: auto;
@@ -582,6 +507,80 @@ hr {
 
   .box-book {
     margin-right: 0;
+  }
+
+  .footer {
+    height: auto;
+  }
+
+  .footer-content-section {
+    flex-direction: column;
+    padding-bottom: 20px;
+  }
+
+  .right-content-block {
+    width: 100%;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .header {
+    height: auto;
+  }
+
+  .header-content-section {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .search-container {
+    margin-top: 10px;
+    width: 100%;
+  }
+
+  input {
+    width: 90%;
+  }
+
+  .category-buttons-section {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .btn-category {
+    width: 48%;
+    margin-top: 10px;
+    padding: 8px 30px 8px 30px;
+  }
+
+  .btn-basket {
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 100%;
+  }
+
+  .content-books {
+    justify-content: center;
+  }
+
+  .box-book {
+    margin-right: 0;
+  }
+
+  .cart-item {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .cart-item-details {
+    margin-top: 15px;
+    align-items: center;
+  }
+
+  .cart-quantity-controls {
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 
   .footer {

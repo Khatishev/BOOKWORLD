@@ -511,9 +511,9 @@ hr {
     width: 100%;
   }
 
-  /*.content-books {
+  .content-books {
     justify-content: center;
-  }*/
+  }
 
   .box-book {
     margin-left: 40px;

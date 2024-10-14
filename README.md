@@ -1,5 +1,14 @@
-# Vue 3 + TypeScript + Vite
+# BOOKWORLD
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is an online bookstore with a choice of genres, such as Fantasy, Classics, Business, and Children's, as well as new releases, best-ofs, and sales.
+<br/>
+(The site is written using: Vue 3 options api + TypeScript)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Installation and launch
+
+npm install
+<br/>
+
+npm run dev
+
+### Link to the website:

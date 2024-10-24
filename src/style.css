@@ -606,14 +606,14 @@ hr {
 
   .box-book {
     margin-bottom: 30px;
-    margin-right: 2.65%;
+    margin-right: 2.5%;
   }
 
   .box-book:nth-child(5n) {
     margin-right: 0;
   }
 
-  .box-book:nth-child(6n) {
+  /*.box-book:nth-child(6n) {
     margin-right: 2.65%;
-  }
+  }*/
 }

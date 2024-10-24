@@ -598,15 +598,15 @@ hr {
   }
 }
 
-@media (max-width: 1594px) {
+@media (max-width: 1519px) {
   .btn-category {
     font-size: 16px;
-    padding: 8px 35px 8px 35px;
+    padding: 8px 32px 8px 32px;
   }
 
   .box-book {
-    margin-bottom: 40px;
-    margin-right: 43.5px;
+    margin-bottom: 30px;
+    margin-right: 28.5px;
   }
 
   .box-book:nth-child(5n) {
@@ -614,6 +614,6 @@ hr {
   }
 
   .box-book:nth-child(6n) {
-    margin-right: 43.5px;
+    margin-right: 28.5px;
   }
 }

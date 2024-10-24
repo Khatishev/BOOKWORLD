@@ -597,3 +597,23 @@ hr {
     margin-top: 20px;
   }
 }
+
+@media (max-width: 1600px) {
+  .btn-category {
+    font-size: 16px;
+    padding: 8px 35px 8px 35px;
+  }
+
+  .box-book {
+    margin-bottom: 40px;
+    margin-right: 45px;
+  }
+
+  .box-book:nth-child(5n) {
+    margin-right: 0;
+  }
+
+  .box-book:nth-child(6n) {
+    margin-right: 45px;
+  }
+}

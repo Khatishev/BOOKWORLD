@@ -606,7 +606,7 @@ hr {
 
   .box-book {
     margin-bottom: 30px;
-    margin-right: 2.3%;
+    margin-right: 2.35%;
   }
 
   .box-book:nth-child(5n) {
@@ -614,6 +614,6 @@ hr {
   }
 
   .box-book:nth-child(6n) {
-    margin-right: 2.3%;
+    margin-right: 2.35%;
   }
 }

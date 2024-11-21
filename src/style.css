@@ -517,8 +517,12 @@ hr {
     margin-right: 70px;
   }
 
-  .box-book:nth-child(16n) {
-    margin-right: 70px;
+  .box-book:nth-child(12n) {
+    margin-right: 0;
+  }
+
+  .box-book:nth-child(20n) {
+    margin-right: 0;
   }
 }
 
@@ -554,6 +558,14 @@ hr {
   }
 
   .box-book {
+    margin-right: 0;
+  }
+
+  .box-book:nth-child(6n) {
+    margin-right: 0;
+  }
+
+  .box-book:nth-child(10n) {
     margin-right: 0;
   }
 
@@ -603,6 +615,7 @@ hr {
   }
 
   .btn-basket {
+    text-align: center;
     margin: 0 auto;
     margin-top: 10px;
     width: 100%;
@@ -613,6 +626,10 @@ hr {
   }
 
   .box-book {
+    margin-right: 0;
+  }
+
+  .box-book:nth-child(5n) {
     margin-right: 0;
   }
 
